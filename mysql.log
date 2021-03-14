@@ -1,0 +1,97 @@
+2021-03-14 06:58:04
+
+			SELECT *
+			FROM usuario
+			WHERE mail='evita.alegria@hotmail.com' and password='uma33mia';
+		
+2021-03-14 06:58:24
+
+			SELECT *
+			FROM usuario
+			WHERE mail='evita.alegria@hotmail.com' and password='fcwec';
+		
+2021-03-14 06:58:25
+
+			SELECT *
+			FROM usuario
+			WHERE mail='evita.alegria@hotmail.com' and password='fcwec';
+		
+2021-03-14 06:58:26
+
+			SELECT *
+			FROM usuario
+			WHERE mail='evita.alegria@hotmail.com' and password='fcwec';
+		
+2021-03-14 06:59:09
+
+			SELECT *
+			FROM usuario
+			WHERE mail='evita.alegria@hotmail.com' and password='scs';
+		
+2021-03-14 07:13:19
+INSERT INTO producto(nombre, descripcion, precio)
+	VALUES('Papas fritas','',100);
+2021-03-14 07:21:54
+SELECT * FROM producto;
+2021-03-14 07:25:06
+SELECT * FROM producto;
+2021-03-14 07:27:34
+SELECT * FROM producto;
+2021-03-14 07:31:04
+SELECT * FROM producto;
+2021-03-14 07:32:40
+SELECT * FROM producto;
+2021-03-14 07:33:25
+SELECT * FROM producto;
+2021-03-14 07:33:38
+SELECT * FROM producto;
+2021-03-14 07:35:19
+SELECT * FROM producto;
+2021-03-14 07:36:32
+SELECT * FROM producto;
+2021-03-14 07:36:49
+SELECT * FROM producto;
+2021-03-14 07:37:34
+SELECT * FROM producto;
+2021-03-14 07:38:27
+SELECT * FROM producto;
+2021-03-14 07:39:15
+SELECT * FROM producto;
+2021-03-14 07:39:40
+SELECT * FROM producto;
+2021-03-14 07:40:51
+SELECT * FROM producto;
+2021-03-14 07:41:32
+SELECT * FROM producto;
+2021-03-14 07:42:46
+SELECT * FROM producto;
+2021-03-14 07:47:53
+SELECT * FROM producto;
+2021-03-14 07:48:16
+SELECT * FROM producto;
+2021-03-14 07:49:12
+SELECT * FROM producto;
+2021-03-14 07:50:02
+SELECT * FROM producto;
+2021-03-14 07:50:36
+SELECT * FROM producto;
+2021-03-14 07:50:59
+SELECT * FROM producto;
+2021-03-14 07:51:16
+SELECT * FROM producto;
+2021-03-14 07:52:48
+SELECT * FROM producto;
+2021-03-14 07:53:03
+SELECT * FROM producto;
+2021-03-14 07:53:47
+SELECT * FROM producto;
+2021-03-14 07:57:42
+SELECT * FROM producto;
+2021-03-14 08:00:03
+SELECT * FROM producto;
+2021-03-14 08:00:38
+SELECT * FROM producto;
+2021-03-14 08:00:59
+SELECT * FROM producto;
+2021-03-14 08:01:25
+SELECT * FROM producto;
